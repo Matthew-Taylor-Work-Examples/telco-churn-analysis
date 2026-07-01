@@ -2,7 +2,7 @@ Telco Customer Churn Analysis
 A SQL-driven analysis of customer churn for a telecom provider, built as a portfolio
 project to demonstrate data cleaning, exploratory analysis, and dashboard design
 end to end.
-View the live dashboard → (update with your GitHub Pages URL once deployed)
+
 What this is
 7,043 customer records were audited for data quality issues, cleaned, and analyzed
 in SQL to answer one question: what actually drives churn? The standout finding —
