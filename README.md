@@ -12,3 +12,5 @@ Month-to-month customers churn at 42.7%, versus 11.3% for one-year and
 2.8% for two-year contracts — and that gap holds even among long-tenured
 customers. Tenure alone looked predictive at first, but that was mostly because new
 customers are disproportionately on month-to-month plans.
+
+Dashboard Live Link: https://matthew-taylor-work-examples.github.io/telco-churn-analysis/
